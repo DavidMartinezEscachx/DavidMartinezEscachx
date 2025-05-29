@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola! Sóc en David Martínez
 
-<!--
-**DavidMartinezEscachx/DavidMartinezEscachx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Professor d'informàctica en el CFGS de DAWe tecnologia a l’Institut Carles Vallbona
+💻 Apassionat per la programació  
+🚀 Compartint projectes educatius i de codi obert
 
-Here are some ideas to get you started:
+## 🔧 Tecnologies que faig servir
+- Java
+- PHP
+- Git i GitHub
+- HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Com contactar amb mi
+- Email: dmart22@xtec.cat
