@@ -1,6 +1,6 @@
 # 👋 Hola! Sóc en David Martínez
 
-🎓 Professor d'informàctica en el CFGS de DAWe tecnologia a l’Institut Carles Vallbona
+🎓 Professor d'informàctica en el CFGS de DAW a l’Institut Carles Vallbona
 💻 Apassionat per la programació  
 🚀 Compartint projectes educatius i de codi obert
 
